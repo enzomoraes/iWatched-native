@@ -104,7 +104,7 @@ const feedData: FeedItem[] = [
   {
     id: 8,
     user: 'Laura Martins',
-    series: 'Lucifer',
+    series: 'The flash',
     episode: 'S06E10',
     comment: 'O final foi satisfatório, mas vou sentir saudades do show.',
     comments: 6,

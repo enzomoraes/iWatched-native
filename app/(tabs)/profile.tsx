@@ -36,7 +36,7 @@ const recentActivity = [
   },
   {
     id: '3',
-    series: 'Lucifer',
+    series: 'The flash',
     episode: 'S06E10',
     comment: 'Final satisfatório. Sentirei falta!',
   },
